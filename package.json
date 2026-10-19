@@ -1,0 +1,7 @@
+{
+  "name": "asynchronous-network-cache",
+  "version": "1.0.0",
+  "description": "Transparent cache orchestration interceptor with asynchronous request-collapsing patterns for native Fetch requests.",
+  "main": "cache_interceptor.js",
+  "type": "module"
+}
